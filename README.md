@@ -1,6 +1,6 @@
 # Uniformly Most Powerful Tests for Ad Hoc Transactions in Monero
 
-This repo manages the LaTeX and Python code for the [https://github.com/cypherstack/churn/blob/upload/latex/Churn-final.pdf](Cypherstack paper) "Uniformly Most Powerful Tests for Ad Hoc Transactions in Monero" by BG Goodell, R Salazar, and F Slaughter; majority of work done by BG Goodell, code written by BG Goodell. 
+This repo manages the LaTeX and Python code for the [Cypherstack paper](https://github.com/cypherstack/churn/blob/upload/latex/Churn-final.pdf) "Uniformly Most Powerful Tests for Ad Hoc Transactions in Monero" by BG Goodell, R Salazar, and F Slaughter; majority of work done by BG Goodell, code written by BG Goodell. 
 
 The LaTeX code typesets the paper itself; the Python code is prototype code for numerical parameterization.
 
